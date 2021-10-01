@@ -26,13 +26,17 @@
 在微信里依次打开如下三个网页：
 
 <http://debugmm.qq.com/?forcex5=true>
+
 <http://debugtbs.qq.com>
+
 <http://debugx5.qq.com>
 
 可以分别看到如下的三个页面：
 
 ![force use x5](https://fangkehou-team.github.io/qingniandamoyu/imagees/force_use_x5.jpg "force use x5")
+
 ![debug tbs](https://fangkehou-team.github.io/qingniandamoyu/imagees/debug_tbs.jpg "debug tbs")
+
 ![debug x5](https://fangkehou-team.github.io/qingniandamoyu/imagees/debug_x5.jpg "debug x5")
 
 当三个页面出现的内容与截图一致或基本一致时表示调试模式已经打开
