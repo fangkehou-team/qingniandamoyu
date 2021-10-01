@@ -29,6 +29,14 @@
 
 <http://debugx5.qq.com>
 
+或者分别扫描如下二维码：
+
+![qr1](https://fangkehou-team.github.io/qingniandamoyu/images/qr1.png "qr1")
+
+![qr2](https://fangkehou-team.github.io/qingniandamoyu/images/qr2.png "qr2")
+
+![qr3](https://fangkehou-team.github.io/qingniandamoyu/images/qr3.png "qr3")
+
 可以分别看到如下的三个页面：
 
 ![force use x5](https://fangkehou-team.github.io/qingniandamoyu/images/force_use_x5.jpg "force use x5")
